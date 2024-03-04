@@ -5,14 +5,14 @@ ToDo is an open-sourse project that showcases potent synergy achieved by integra
 
 <p align="center">
   <img src="Images/Screenshot (170).png" width="400">
-  <img src="src/Images/Screenshot (172).png" width="400">
-  <img src="src/Images/Screenshot (173).png" width="400">
-  <img src="src/Images/Screenshot (171).png" width="400">
+  <img src="Images/Screenshot (172).png" width="400">
+  <img src="Images/Screenshot (173).png" width="400">
+  <img src="Images/Screenshot (171).png" width="400">
 </p>
 
 # API View:
 <p align="center">
-  <img src="src/Images/Screenshot (175).png" width="600">
+  <img src="Images/Screenshot (175).png" width="600">
 </p>
 
 # Django Backend Admin Panel:
@@ -20,7 +20,7 @@ ToDo is an open-sourse project that showcases potent synergy achieved by integra
 ## By running python manage.py runserver and navigating to /admin
 
 <p align="center">
-  <img src="src/Images/Screenshot (174).png" width="600">
+  <img src="Images/Screenshot (174).png" width="600">
 </p>
 
 # Features :dart:
