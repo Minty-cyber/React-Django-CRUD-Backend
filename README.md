@@ -53,7 +53,7 @@ By running python manage.py runserver and navigating to /admin
 ## Backend (Django)
 1. **Clone the Repository**
    ```sh
-   https://github.com/Minty-cyber/React-Django-CRUD-Backend-.git
+   https://github.com/Minty-cyber/React-Django-CRUD-Backend.git
    ```
 
 2. **Backend Set Up**
